@@ -30,7 +30,7 @@ Findings
 Recommendations
 -Focus discharge planning and follow-up on patients with the highest risk based on past hospital visits.
 -Give extra care coordination to patients with heart/circulatory conditions and diabetes, given they have higher readmission rates.
-- Review discharge processes at facilities with high readmission rates to find areas that could be improved.
-Focus discharge planning and follow-up on the highest-risk patients based on past hospital visits.
-Give extra care coordination to patients with heart/circulatory conditions and diabetes, given they have higher readmission rates.
-Review discharge processes at facilities with high readmission rates to find areas that could be improved.
+-Review discharge processes at facilities with high readmission rates to find areas that could be improved.
+-Focus discharge planning and follow-up on the highest-risk patients based on past hospital visits.
+-Give extra care coordination to patients with heart/circulatory conditions and diabetes, given they have higher readmission rates.
+-Review discharge processes at facilities with high readmission rates to find areas that could be improved.
